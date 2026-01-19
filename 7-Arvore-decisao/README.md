@@ -1,5 +1,5 @@
 🌳 Classificação de Flores Iris com Árvore de Decisão
-📌 Descrição
+
 -Este projeto implementa um modelo de Machine Learning usando Árvore de Decisão para classificar flores do famoso dataset Iris em três categorias:
 
 🌸 Setosa
